@@ -5,10 +5,12 @@
 对于这样一个场景：（RGB.jpg  |  DEPTH.jpg）
 ![本地图片](RGB.jpg)
 ![本地图片](DEPTH.jpg)
+
 可以进行预测，结果如下：
 ![本地图片](RGB_DEPTH.jpg)
 
 接着我们只对RGB.jpg添加“贴画”，DEPTH.jpg：
 ![本地图片](RGB-sticker.jpg)
+
 进行预测，结果如下：
 ![本地图片](RGB_DEPTH_sticker.jpg)
